@@ -1,0 +1,40 @@
+{
+    "version": "1.0.5",
+    "authors": [
+        "VQComms"
+    ],
+    "owners": [
+        "VQComms"
+    ],
+    "title": "Novell.Directory.LDAP.VQ",
+    "name": "Novell.Directory.LDAP.VQ",
+    "description": "LDAP Library",
+    "packOptions": {
+        "releaseNotes": "",
+        "owners": [
+            "VQComms"
+        ],
+        "licenseUrl": "https://github.com/VQComms/CsharpLDAP/blob/master/LICENSE.md",
+        "projectUrl": "https://github.com/VQComms/CsharpLDAP/",
+        "requireLicenseAcceptance": false,
+        "summary": "LDAP Library"
+    },
+    "frameworks": {
+        "netstandard1.6": {
+            "buildOptions": {
+                "embed": [
+                    "Properties/**/*"
+                ]
+            },
+            "dependencies": {
+                "NETStandard.Library": "1.6.1",
+                "System.Collections.NonGeneric": "4.3.0",
+                "System.Net.NameResolution": "4.3.0",
+                "System.Net.Security": "4.3.0",
+                "System.Reflection.TypeExtensions": "4.3.0",
+                "System.Security.Cryptography.X509Certificates": "4.3.0",
+                "System.Threading.Thread": "4.3.0"
+            }
+        }
+    }
+}

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <Description>LDAP Library</Description>
+        <AssemblyTitle>Novell.Directory.LDAP.VQ</AssemblyTitle>
+        <VersionPrefix>1.1.0</VersionPrefix>
+        <Authors>VQComms</Authors>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <AssemblyName>Novell.Directory.LDAP.VQ</AssemblyName>
+        <RootNamespace>Novell.Directory.LDAP.VQ</RootNamespace>
+        <PackageProjectUrl>https://github.com/VQComms/CsharpLDAP/</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <RootNamespace>Novell.Directory.LDAP.VQ</RootNamespace>
+        <LangVersion>latest</LangVersion>
+        <PackageTags>asp.net core;ldap;.net core</PackageTags>
+    </PropertyGroup>
+
+
+</Project>

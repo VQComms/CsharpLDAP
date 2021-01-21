@@ -1,0 +1,9 @@
+doc/
+lib/
+obj/
+bin/
+*.suo
+*.csproj.*
+*.lock.json
+.vs/*
+.idea/*
